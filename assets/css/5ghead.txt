@@ -1,0 +1,40 @@
+<title>5GTOTO: Daftar Situs Togel Online Terpercaya 2023</title>
+<meta name="description" content="5GTOTO merupakan situs judi togel online terpercaya dengan pasaran togel online terlengkap 2023 dan bandar judi togel hadiah 4d 10juta terbesar di Indonesia."/>
+<meta name="keywords" content="5gtoto, 5g toto, togel online, togel, togel singapore, togel hongkong, toto macau"/>
+<link rel="canonical" href="https://5gtogel.info/">
+<link rel="amphtml" href="https://5gtoto.semogajayaterus.com/">
+<meta name="google-site-verification" content="zAC3sRfvRe38cnghZz2fLSc0G84ytjcCjWCTWa0GCGo" />
+<meta name="google" content="notranslate"/>
+<meta name="author" content="5gtoto" />
+<meta name="language" content="id,en">
+<meta name="distribution" content="Global" />
+<meta name="robots" content="index,follow" />
+<meta name="revisit-after" content="1 Day" />
+<meta name="categories" content="Daftar Situs Togel Online Terpercaya" />
+<meta name="googlebot" content="index,follow" />
+<meta name="expires" content="never" />
+<meta name="geo.placename" content="Indonesia" />
+<meta name="geo.position" content="ID" />
+<meta name="geo.region" content="indonesia" />
+<meta name="copyright" content="5gtoto" />
+<meta name="DC.Contributor" content="5gtoto" />
+<meta name="google-site-verification" content="KXZKWSzOxOqv-RZAYi7QpM0FBq9cRx1YgC1llwQi73A" />
+<meta name="google-site-verification" content="RZsr8_UfwuvrNlyGgCZW3Z_bzJ_H0_3NBMm5J9VSFk4" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SBPH6QLS55"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SBPH6QLS55');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TW4M7G7M');</script>
+<!-- End Google Tag Manager -->

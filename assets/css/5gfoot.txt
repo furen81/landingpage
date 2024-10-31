@@ -1,0 +1,1626 @@
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW4M7G7M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <link rel="stylesheet" href="/assets/css/additional.css">
+    <style>
+      .w-100 {
+        width: 100%;
+        height: auto !important;
+      }
+
+      .mdlcenter {
+        transform: translateY(50%) !important;
+      }
+
+      .modal-dialog {
+        margin-top: 50% !important;
+        transform: translateY(-100%) !important;
+      }
+
+      .modal-dialog .modal-content .modal-header {
+        border-bottom: none;
+        background: none;
+      }
+
+      .modal-dialog .modal-content {
+        background: transparent;
+        box-shadow: none;
+        border: none;
+        transform: translateY(-50%);
+      }
+
+      .ads-container {
+        margin-top: 20px;
+        display: flex;
+        gap: 10px;
+      }
+
+      .ads-container img {
+        border-radius: 5px;
+        border: 1px solid #fff;
+      }
+    </style>
+    <script type="text/javascript">
+      function proteksi() {
+        if ((event.charCode >= 48 && event.charCode <= 57) || event.charCode == 8 || event.charCode == 9 || event.charCode == 95 || (event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122)) {
+          event.returnValue = true;
+        } else {
+          event.returnValue = false;
+        }
+      }
+    </script>
+    <!-- PAGE -->
+    <section class="section margin-top">
+      <style>
+        .blink {
+          text-decoration: blink;
+          font-weight: bold;
+          -webkit-animation-name: blinker;
+          -webkit-animation-duration: 0.6s;
+          -webkit-animation-iteration-count: infinite;
+          -webkit-animation-timing-function: ease-in-out;
+          -webkit-animation-direction: alternate;
+        }
+
+        @-webkit-keyframes blinker {
+          from {
+            opacity: 1.0;
+          }
+
+          to {
+            opacity: 0.0;
+          }
+        }
+      </style>
+      <p>
+        <!-- ambil data footer dari table agency_runtext; -->
+        <style>
+          #content .panel-heading center h2 {
+            display: none;
+          }
+
+          #content .panel-heading:nth-child(1),
+          #content .panel-heading:nth-child(2),
+          #content .panel-heading:nth-child(3),
+          #content .panel-heading:nth-child(4),
+          #content .panel-heading:nth-child(5),
+          #content .panel-heading:nth-child(6),
+          #content .panel-heading:nth-child(7),
+          #content .panel-heading:nth-child(8),
+          #content .panel-heading:nth-child(9),
+          #content .panel-heading:nth-child(10),
+          #content .panel-heading:nth-child(11),
+          #content .panel-heading:nth-child(12),
+          #content .panel-heading:nth-child(13),
+          #content .panel-heading:nth-child(14),
+          #content .panel-heading:nth-child(15),
+          #content .panel-heading:nth-child(14),
+          #content .panel-heading:nth-child(16),
+          #content .panel-heading:nth-child(14),
+          #content .panel-heading:nth-child(17) {
+            margin-top: -60px;
+            padding: 10px;
+          }
+
+          .wbutton {
+            width: 150px;
+            margin-top: 13px;
+          }
+
+          li {
+            color: white;
+          }
+
+          body {
+            background: #000000 url(https://iili.io/dHJSq0v.jpg) center center no-repeat !important;
+            background-attachment: fixed !important;
+            background-position: top;
+            background-size: cover !important;
+          }
+
+          .animatedcolor,
+          .animatedcolor i {
+            -webkit-animation: color-change 1s infinite;
+          }
+        </style>
+        <script>
+          var bb855 = document.getElementsByClassName('sidebar-nav')[0];
+          var html = " < li >< a href = "https://5gtoto.vip/"
+          target = '_blank' > < i class = 'fa fa-newspaper-o' > < /i>Prediksi Togel < /a > < /li>";
+          bb855.insertAdjacentHTML('beforeend', html);
+        </script>
+        <script>
+          var bb855 = document.getElementsByClassName('sidebar-nav')[0];
+          var html = " < li >< a href = "https://5gtoto.vip/"
+          target = '_blank' > < i class = 'fa fa-wpforms' > < /i>Keluhan Member < /a > < /li>";
+          bb855.insertAdjacentHTML('beforeend', html);
+        </script>
+        <script>
+          var tombolside = ' < a href = "https://5gtoto.vip/" >< img class = "btn-img"
+          src = "https://iili.io/dHJh9Ra.png"
+          align = "center" > < /a>< /div > ';
+          bb855.insertAdjacentHTML('afterend', tombolside, );
+        </script>
+        <style>
+          .navbar-fixed-top {
+            z-index: 99999 !important;
+            max-width: 1170px !important;
+            margin: auto !important;
+          }
+
+          img.btn-img {
+            position: relative;
+            border-radius: 6px 20px 0px 0px;
+            transition: .2s;
+            margin-left: 8px;
+            margin-bottom: 11px;
+            width: 242px;
+          }
+
+          img.btn-img:hover {
+            box-shadow: 0px 0px #220024;
+            opacity: 0.8;
+            cursor: pointer;
+            top: 2px;
+          }
+
+          .wimage {
+            border-radius: 0px;
+            width: 650px;
+            height: 132px;
+          }
+
+          .blog-divider {
+            margin: 40px 0;
+          }
+
+          .latest-news>a {
+            color: white;
+            font-family: futura;
+            font-style: italic;
+            font-weight: bold;
+          }
+
+          .latest-news .dates {
+            color: white;
+          }
+
+          @-webkit-keyframes color-change {
+            0% {
+              color: red;
+            }
+
+            50% {
+              color: blue;
+            }
+
+            100% {
+              color: red;
+            }
+          }
+
+          @-moz-keyframes color-change {
+            0% {
+              color: red;
+            }
+
+            50% {
+              color: blue;
+            }
+
+            100% {
+              color: red;
+            }
+          }
+
+          @-ms-keyframes color-change {
+            0% {
+              color: red;
+            }
+
+            50% {
+              color: blue;
+            }
+
+            100% {
+              color: red;
+            }
+          }
+
+          @-o-keyframes color-change {
+            0% {
+              color: red;
+            }
+
+            50% {
+              color: blue;
+            }
+
+            100% {
+              color: red;
+            }
+          }
+
+          @keyframes color-change {
+            0% {
+              color: red;
+            }
+
+            50% {
+              color: blue;
+            }
+
+            100% {
+              color: red;
+            }
+          }
+
+          .bank {
+            text-align: center;
+            width: 145px;
+            height: 87px;
+            padding: 0px !important;
+            background-color: rgba(0, 0, 0, 0);
+            border: none !important;
+            -webkit-border-radius: 0px !important;
+            -moz-border-radius: 0px !important;
+            -ms-border-radius: 0px !important;
+            -o-border-radius: 0px !important;
+            border-radius: 0px !important;
+            margin-left: 0px;
+          }
+
+          .owl-wrapper .owl-item:nth-child(1) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bca.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(2) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/mandiri.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(3) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.akb88.com/bri.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(4) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bni.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(5) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/danamon.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(6) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/permata.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(7) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/panin.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(8) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/ovo.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(9) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/gopay.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(10) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/dana.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(11) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/linkaja.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(12) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bsi.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(13) .bank .online {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bii.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(1) .bank .offline {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bca.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(2) .bank .offline {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/mandiri.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(3) .bank .offline {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bri.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(4) .bank .offline {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bni.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(5) .bank .offline {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/danamon.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(6) .bank .offline {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/permata.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(7) .bank .offline {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/panin.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(8) .bank .offline {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bsi.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(9) .bank .offline {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bii.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(1) .bank .trouble {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bca.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(2) .bank .trouble {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/mandiri.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(3) .bank .trouble {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bri.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(4) .bank .trouble {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bni.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(5) .bank .trouble {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/danamon.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(6) .bank .trouble {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/permata.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(7) .bank .trouble {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/panin.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(8) .bank .trouble {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bsi.gif') 0px 0px no-repeat !important;
+          }
+
+          .owl-wrapper .owl-item:nth-child(9) .bank .trouble {
+            width: 145px !important;
+            height: 94px !important;
+            background: url('https://assets.5gtoto.com/bii.gif') 0px 0px no-repeat !important;
+          }
+
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {
+            content: url("https://assets.5gtoto.com/singapore.png") !important;
+          }
+
+          /*singapore*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {
+            content: url("https://assets.5gtoto.com/sydney.png") !important;
+          }
+
+          /*sydney*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) {
+            content: url("https://assets.5gtoto.com/hongkong.png") !important;
+          }
+
+          /*hk*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {
+            content: url("https://assets.5gtoto.com/totomacau4d.png") !important;
+          }
+
+          /*TOTOMACAU*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) {
+            content: url("https://assets.5gtoto.com/totomacau5d.png") !important;
+          }
+
+          /*TOTOMACAU5d*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) {
+            content: url("https://assets.5gtoto.com/oregon03.png") !important;
+          }
+
+          /*OREGON03*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) {
+            content: url("https://assets.5gtoto.com/pcso.png") !important;
+          }
+
+          /*PCSO*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) {
+            content: url("https://assets.5gtoto.com/oregon06.png") !important;
+          }
+
+          /*OREGON06*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) {
+            content: url("https://assets.5gtoto.com/kentuckyeve.png") !important;
+          }
+
+          /*KENTUCKY*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) {
+            content: url("https://assets.5gtoto.com/kentuckymid.png") !important;
+          }
+
+          /*KENTUCKYMID*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) {
+            content: url("https://assets.5gtoto.com/cambodia.png") !important;
+          }
+
+          /*CAMBODIA*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) {
+            content: url("https://assets.5gtoto.com/china.png") !important;
+          }
+
+          /*CHINA*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) {
+            content: url("https://assets.5gtoto.com/california.png") !important;
+          }
+
+          /*CALORINA*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) {
+            content: url("https://assets.5gtoto.com/bullseye.png") !important;
+          }
+
+          /*BULLEYE*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) {
+            content: url("https://assets.5gtoto.com/magnum4d.png") !important;
+          }
+
+          /*MAGNUM4D*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) {
+            content: url("https://assets.5gtoto.com/taiwan.png") !important;
+          }
+
+          /*TAIWAN*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) {
+            content: url("https://assets.5gtoto.com/floridaeve.png") !important;
+          }
+
+          /*FLORIDAEVE*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) {
+            content: url("https://assets.5gtoto.com/floridamid.png") !important;
+          }
+
+          /*FLORIDAMID*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) {
+            content: url("https://assets.5gtoto.com/cambodia.png") !important;
+          }
+
+          /*CAMBODIA*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) {
+            content: url("https://assets.5gtoto.com/jepang.png") !important;
+          }
+
+          /*JEPANG*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) {
+            content: url("https://assets.5gtoto.com/oregon06.png") !important;
+          }
+
+          /*OREGON06*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) {
+            content: url("https://assets.5gtoto.com/oregon09.png") !important;
+          }
+
+          /*OREGON09*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) {
+            content: url("https://assets.5gtoto.com/newyorkeve.png") !important;
+          }
+
+          /*NEWYORK-EVE*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(24) {
+            content: url("https://assets.5gtoto.com/newyorkeve.png") !important;
+          }
+
+          /*NEWYORK-MID*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(25) {
+            content: url("https://assets.5gtoto.com/newyorkeve.png") !important;
+          }
+
+          /*NEWYORK-EVE*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(26) {
+            content: url("https://assets.5gtoto.com/oregon12.png") !important;
+          }
+
+          /*OREGON12*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(27) {
+            content: url("https://assets.5gtoto.com/kingkong4d.png") !important;
+          }
+
+          /*KINGKONG 4D*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(28) {
+            content: url("https://assets.5gtoto.com/pokerdice.png") !important;
+          }
+
+          /*pokerdice*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(29) {
+            content: url("https://assets.5gtoto.com/suwit.png") !important;
+          }
+
+          /*suwit*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(30) {
+            content: url("https://assets.akb88.com/redwhite.png") !important;
+          }
+
+          /*redwhite*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(31) {
+            content: url("https://assets.5gtoto.com/oglok.png") !important;
+          }
+
+          /*oglok*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(32) {
+            content: url("https://assets.5gtoto.com/gongball.png") !important;
+          }
+
+          /*gongball*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(33) {
+            content: url("https://assets.5gtoto.com/24d.png") !important;
+          }
+
+          /*24D*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(34) {
+            content: url("https://assets.5gtoto.com/billiard.png") !important;
+          }
+
+          /*BILLIARDS*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(35) {
+            content: url("https://assets.5gtoto.com/12d.png") !important;
+          }
+
+          /*12D*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(36) {
+            content: url("https://assets.5gtoto.com/slotidn.png") !important;
+          }
+
+          /*idnslot*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(37) {
+            content: url("https://assets.5gtoto.com/habanero.png") !important;
+          }
+
+          /*habanero*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(38) {
+            content: url("https://assets.5gtoto.com/pragmaticplay.png") !important;
+          }
+
+          /*pragmaticplay*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(39) {
+            content: url("https://assets.5gtoto.com/toptrendgaming.png") !important;
+          }
+
+          /*toptrend*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(40) {
+            content: url("https://imgku.io/download/TDGfjNH8.png") !important;
+          }
+
+          /*pgsoft*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(41) {
+            content: url("https://assets.5gtoto.com/microgaming.png") !important;
+          }
+
+          /*microgaming*/
+          .gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(42) {
+            content: url("https://assets.5gtoto.com/gmw.png") !important;
+          }
+
+          /*GMWSLOT*/
+          .owl-carousel.bankscroll {
+            margin-top: -164px;
+          }
+
+          ul.newsticker>li>a {
+            color: #000000 !important;
+          }
+
+          .news-head>h5>i {
+            color: #fe0909;
+            background: black;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+          }
+
+          .modal-content {
+            background-color: #00000000 !important;
+          }
+
+          .results>h4>i {
+            color: #3609fe;
+            background: black;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+          }
+
+          .btn-group.with-heading {
+            display: none;
+          }
+
+          button.btn-theme,
+          .btn.btn-theme:hover {
+            color: black;
+          }
+
+          button.btn-theme,
+          .btn.btn-theme {
+            background-image: linear-gradient(to bottom, #1a06fb 0%, #2e00d2 100%);
+            padding: 8px 19px !important;
+            border-radius: 15px 2px 15px 5px !important;
+            box-shadow: inset 0px 0px 0px 1px rgb(30, 0, 255), inset 0px 2px 0px 0px rgb(60, 0, 255), inset 0px 0px 0px 2px rgb(8, 0, 255), 3px 3px 3px 1px rgb(0 0 0 / 20%);
+          }
+
+          .form-control {
+            border-radius: 15px !important;
+          }
+
+          .wcover p {
+            color: white !important;
+          }
+
+          .wcover {
+            width: 650px;
+            background: #000;
+            color: white;
+            padding: 10px;
+            display: none;
+            box-shadow: rgba(0, 17, 255, 0.9) 0 6px 12px -2px, rgba(47, 0, 255, 0.9) 0 3px 7px -3px;
+            border-radius: 10px;
+          }
+
+          @media only screen and (max-width: 1100px) {
+            .contact-button {
+              display: none;
+            }
+
+            .sidenav .closebtn {
+              display: none;
+            }
+
+            #mySidenav {
+              display: none;
+            }
+
+            mySidenav2 {
+              display: none;
+            }
+
+            .bank {
+              background-color: white !important;
+            }
+
+            .bank {
+              height: 25px !important;
+            }
+
+            .bank {
+              width: 24% !important;
+            }
+
+            #btm_banner {
+              display: none;
+            }
+          }
+
+          @media only screen and (min-width: 1100px) {
+            .banmini {
+              display: none !important;
+            }
+          }
+
+          .banmini {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            top: 70px;
+            background: rgba(0, 0, 0, 0.8);
+            text-align: center;
+            z-index: 999;
+          }
+
+          .button-aaa {
+            background: #2104fe;
+          }
+
+          .button-aab {
+            background: #2104fe;
+          }
+
+          .button-aac {
+            background: #2104fe;
+          }
+
+          .button-aad {
+            background: #2104fe;
+          }
+
+          .button-aaf {
+            background: #2104fe;
+          }
+
+          .button-blue {
+            background: #0421fe !important;
+            box-shadow: none;
+            border: 1px #404040 solid;
+          }
+
+          .header-logo2 {
+            margin-left: auto;
+            margin-right: auto;
+          }
+
+          input[type="text"],
+          input[type="password"],
+          select,
+          textarea {
+            border-radius: 20px 20px 20px 20px !important;
+          }
+
+          .margin-top-15 {
+            margin-top: 0px !important;
+          }
+
+          input[type="submit"],
+          .button,
+          .buttons,
+          .buttond,
+          .buttonss,
+          .buttong,
+          .buttonlc2,
+          .buttonbl,
+          .buttondapk {
+            border-radius: 20px 20px 20px 20px !important;
+          }
+
+          .margin-top-15 {
+            margin-top: 0px !important;
+          }
+
+          .results h4 {
+            color: black;
+          }
+
+          .navbar-collapse .row .col-sm-7 {
+            margin-left: 150px !important;
+          }
+
+          .news-head>h5>i {
+            color: #3c5f67;
+          }
+
+          h1,
+          h2,
+          h3,
+          h4,
+          h5,
+          h6 {
+            font-family: arial;
+            color: #ffffff;
+          }
+
+          .fa-bullhorn:before {
+            content: "\f0a1";
+            color: black;
+          }
+
+          .panel-blue {
+            background: #000 !important;
+          }
+
+          .results {
+            background: #1504fe;
+            color: #000 !important;
+          }
+
+          .news-head {
+            background: rgb(254, 5, 4);
+            border-radius: 1px 1px 1px 50px;
+          }
+
+          .news-head>h5 {
+            color: black;
+            font-weight: bold;
+            text-transform: uppercase !important;
+          }
+
+          .bottomnv li {
+            display: inline-block;
+            list-style-type: none;
+          }
+
+          .bottomnv li a {
+            line-height: 11px;
+            display: block;
+            background: rgb(21, 21, 41) !important;
+            border-radius: 10px 10px 10px 10px;
+            text-transform: uppercase;
+            text-decoration: none;
+            border-bottom: 1px solid white;
+            border-top: 1px solid white;
+            padding: 4px 16px;
+          }
+
+          .bottomnv_active {
+            border-bottom: 1px solid rgb(21, 0, 255) !important;
+            border-top: 1px solid rgb(25, 0, 255) !important;
+            border-left: none;
+            border-right: none;
+            text-transform: uppercase;
+            color: rgb(21, 0, 255) !important;
+          }
+
+          a {
+            color: white;
+            text-decoration: none;
+          }
+
+          .contactusbg:nth-child(1) a {
+            position: relative;
+            top: 12px;
+            left: 12px;
+            text-transform: uppercase;
+            font-weight: bold;
+          }
+
+          .contactusbg:nth-child(2) a {
+            position: relative;
+            top: 12px;
+            left: 12px;
+            text-transform: uppercase;
+            font-weight: bold;
+          }
+
+          .contactusbg:nth-child(3) a {
+            position: relative;
+            top: 12px;
+            left: 12px;
+            text-transform: uppercase;
+            font-weight: bold;
+          }
+
+          .contactusbg:nth-child(4) a {
+            position: relative;
+            top: 12px;
+            left: 12px;
+            text-transform: uppercase;
+            font-weight: bold;
+          }
+
+          .contactusbg:nth-child(5) a {
+            position: relative;
+            top: 12px;
+            left: 12px;
+            text-transform: uppercase;
+            font-weight: bold;
+          }
+
+          element.style {
+            text-align: center;
+            float: left;
+            margin: 0px 5px;
+            margin-bottom: 5px;
+            margin-top: 10px;
+          }
+
+          .col-lg-102 {
+            position: relative;
+            min-height: 1px;
+            padding-right: 15px;
+            padding-left: 15px;
+          }
+
+          .col-xs-offset-125 {
+            margin-left: 13.33333333%;
+          }
+
+          .col-xs-102 {
+            position: relative;
+            min-height: 1px;
+            padding-right: 15px;
+            padding-left: 15px;
+          }
+
+          .col-sm-offset-125 {
+            margin-left: 8.33333333%;
+          }
+
+          .col-md-offset-125 {
+            margin-left: 8.33333333%;
+          }
+
+          .yellowfoot {
+            width: auto;
+            padding: 0px 0px 0px;
+          }
+
+          footer#footer {
+            background-color: #000;
+            border-top: 1px solid #2f00ff;
+            color: rgba(255, 255, 255, 1);
+            font-weight: 300;
+            font-size: 12px;
+            border-top-style: groove;
+            width: 1170px;
+            margin: auto;
+            box-shadow: rgb(0 0 0 / 90%) 0 32px 62px -2px, rgb(0 0 0 / 90%) 0 30px 32px -3px;
+          }
+
+          .bottomnv {
+            width: auto;
+          }
+
+          .bottomnv .blacktp {
+            list-style-type: none;
+            overflow: hidden;
+            width: 100%;
+            text-align: center;
+            margin: auto;
+            padding-right: 55px;
+          }
+
+          .blog-posts ol,
+          ul {
+            color: #fff;
+            line-height: 20px;
+            padding: 0 25px;
+            font-weight: 300;
+          }
+
+          .contactusbg:nth-child(1) {
+            background: url(https://iili.io/dHJeYAX.png) no-repeat;
+            width: 18%;
+            height: 48px;
+            background-size: 100%;
+          }
+
+          .contactusbg:nth-child(2) {
+            background: url(https://iili.io/dHJeuFp.png) no-repeat;
+            width: 18%;
+            height: 48px;
+            background-size: 100%;
+          }
+
+          .contactusbg:nth-child(3) {
+            background: url(https://iili.io/dHJeAcN.png) no-repeat;
+            width: 18%;
+            height: 48px;
+            background-size: 100%;
+          }
+
+          .contactusbg:nth-child(4) {
+            background: url(https://iili.io/dHJeRSI.png) no-repeat;
+            width: 19%;
+            height: 48px;
+            background-size: 100%;
+          }
+
+          .contactusbg:nth-child(5) {
+            background: url(https://iili.io/dHJe79t.png) no-repeat;
+            width: 18%;
+            height: 48px;
+            background-size: 100%;
+          }
+
+          .blog-sidebar .nav.menu>li>a {
+            color: #ffffff;
+            padding: 9px 0;
+            border-bottom: 1px solid #1e00ff;
+            font-size: 16px;
+            padding-left: 10px;
+          }
+
+          .section .container {
+            background: #000000;
+            background-image: none;
+            box-shadow: rgb(0 0 0 / 100%) 0 32px 62px -2px, rgb(0 0 0 / 100%) 0 30px 32px -3px;
+          }
+
+          #bank.section .container {
+            background: #000000;
+            margin-bottom: -31px;
+          }
+
+          .news-body {
+            background: rgb(50, 4, 254);
+          }
+
+          .slider .owl-theme .owl-controls .owl-page span {
+            display: none;
+          }
+
+          .slider #progressBar {
+            display: none;
+          }
+
+          .owl-theme .owl-controls {
+            margin-top: 0px;
+            text-align: center;
+          }
+
+          .animation {
+            height: 50px;
+            overflow: hidden;
+            margin-left: 1rem;
+          }
+
+          .animation>div>div {
+            padding: 0.25rem 0.75rem;
+            height: 2.81rem;
+            margin-bottom: 2.81rem;
+            display: inline-block;
+          }
+
+          .animation div:first-child {
+            animation: text-animation 8s infinite;
+          }
+
+          .Slot-5gtoto {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-template-rows: repeat(2, 1fr);
+            grid-column-gap: 0px;
+            grid-row-gap: 0px;
+          }
+
+          .casino-5gtoto {
+            align-self: auto;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-template-rows: repeat(2, 1fr);
+            grid-column-gap: 0px;
+            grid-row-gap: 0px;
+          }
+
+          .daftar-slot-5gtoto {
+            margin: 7px;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.5s;
+            animation: shadow 2s infinite alternate;
+          }
+
+          .daftar-casino-5gtoto {
+            margin: 7px;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.5s;
+            animation: shadow 2s infinite alternate;
+          }
+
+          .daftar-slot-5gtoto img {
+            border-radius: 10px;
+          }
+
+          .daftar-slot-5gtoto:hover {
+            opacity: 0.3;
+          }
+
+          @keyframes shadow {
+            0% {
+              box-shadow: inset 20px -14px 20px rgb(43, 0, 255);
+            }
+
+            100% {
+              box-shadow: inset 20px -20px 20px rgb(255, 13, 0);
+            }
+          }
+
+          .link-alternatif-akb88-terbaik {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            align-content: center;
+            margin-top: 15px;
+            margin: 30px auto;
+          }
+
+          .link-alternatif11 {
+            display: flex;
+            flex-direction: column;
+            background-position: center;
+            padding: 10px;
+            margin: 0px;
+            border-radius: 10px;
+            background: url(https://assets.5gtoto.com/link.png);
+            background-size: 100%;
+            align-items: flex-end;
+            text-align: right;
+            width: 250px;
+            height: 73px;
+            justify-content: center;
+            font-size: 18px;
+            text-decoration: none;
+            color: white;
+            text-shadow: 0px 0px 1px white;
+            color: rgb(34, 0, 255);
+            font-weight: bold !important;
+          }
+
+          .link-alternatif12 {
+            display: flex;
+            flex-direction: column;
+            background-position: center;
+            padding: 10px;
+            margin: 0px;
+            border-radius: 10px;
+            background: url(https://assets.5gtoto.com/link.png);
+            background-size: 100%;
+            align-items: flex-end;
+            text-align: right;
+            width: 250px;
+            height: 73px;
+            justify-content: center;
+            font-size: 18px;
+            text-decoration: none;
+            color: white;
+            text-shadow: 0px 0px 1px white;
+            color: rgb(34, 0, 255);
+            font-weight: bold !important;
+          }
+
+          .link-alternatif13 {
+            display: flex;
+            flex-direction: column;
+            background-position: center;
+            padding: 10px;
+            margin: 0px;
+            border-radius: 10px;
+            background: url(https://assets.5gtoto.com/link.png);
+            background-size: 100%;
+            align-items: flex-end;
+            text-align: right;
+            width: 250px;
+            height: 73px;
+            justify-content: center;
+            font-size: 18px;
+            text-decoration: none;
+            color: white;
+            text-shadow: 0px 0px 1px white;
+            color: rgb(13, 0, 255);
+            font-weight: bold !important;
+          }
+
+          .alternatif-dasar {
+            display: flex;
+          }
+
+          .info-alternatif {
+            border-top: 1px solid rgb(2, 10, 57);
+            margin-top: 4px;
+            padding-top: 3px;
+            text-transform: uppercase;
+            font-size: 13px;
+            color: rgb(0 0 0);
+            font-family: helvetica;
+            text-shadow: 0 2px 1px rgb(255, 255, 255);
+          }
+
+          .alternatif-dasar {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            align-content: center;
+          }
+
+          a.link-alternatif11:hover {
+            text-decoration: none;
+            color: black;
+          }
+
+          a.link-alternatif12:hover {
+            text-decoration: none;
+            color: black;
+          }
+
+          a.link-alternatif13:hover {
+            text-decoration: none;
+            color: black;
+          }
+
+          .container-footer-bawah {
+            max-width: 700px;
+            margin: 25px auto;
+            overflow: hidden;
+            position: relative;
+            border-radius: 20px;
+            z-index: 99999;
+          }
+
+          .news-detail {
+            width: 100%;
+            height: 161px;
+            display: inline-block;
+            background: rgba(0, 0, 0, 1);
+            padding: 5px 15px;
+            color: #fff;
+            -webkit-transition: all 0.25s linear;
+            -moz-transition: all 0.25s linear;
+            transition: all 0.25s linear;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            -ms-border-radius: 4px;
+            -o-border-radius: 4px;
+            border: 1px solid #1200dd;
+            border-radius: 4px;
+            overflow-x: hidden ! important;
+            overflow-y: auto ! important;
+          }
+
+          .results-detail {
+            width: 100%;
+            display: inline-block;
+            background: rgba(0, 0, 0, 1);
+            padding: 0px 15px;
+            color: #fff;
+            -webkit-transition: all 0.25s linear;
+            border: 1px solid #0b00dd;
+            -moz-transition: all 0.25s linear;
+            transition: all 0.25s linear;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            -ms-border-radius: 4px;
+            -o-border-radius: 4px;
+            border-radius: 4px;
+          }
+        </style>
+        <meta name="keywords" content="5gtoto,5gtoto,5gtoto slot,slot gacor,slot online,judi slot,judi online,slot gacor 5gtoto,slot online akb88,judi slot 5gtoto,judi online 5gtoto,deposit pulsa tanpa potongan,deposit qris 10rb,link alternatif 5gtoto,togel online,judi togel 5gtoto,togel 5gtoto,kasino online,casino online,kasino 5gtoto">
+      </p>
+      <center>
+        <h1 style="color: #fe0909;border-bottom: 1px solid gold;padding: 10px;">5GTOTO: Alternatif Bandar Toto Resmi Terbaik</h1>
+      </center>
+      <!--live slot games></-->
+      <div style="color: White; width: 400px ; text-align: left;margin: 10px 0;">
+        <img src="https://iili.io/dHJnI5J.gif" title="Daftar Slot Games 5GTOTO" alt="Daftar Slot Games 5GTOTO" style="width: 398px;height: 90px;">
+      </div>
+      <div class="Slot-5gtoto">
+        <div class="daftar-slot-5gtoto" bis_skin_checked="1">
+          <img src="https://ik.imagekit.io/5gtoto/pragmatic.webp?updatedAt=1720198117566" title="Pragmatic Play Slot Online" alt="Pragmatic Play" style="width:100%">
+        </div>
+        <div class="daftar-slot-5gtoto" bis_skin_checked="1">
+          <img src="https://ik.imagekit.io/5gtoto/pg-soft.webp?updatedAt=1720198117337" title="PG Soft Slot Online" alt="PG Soft" style="width:100%">
+        </div>
+        <div class="daftar-slot-5gtoto" bis_skin_checked="1">
+          <img src="https://ik.imagekit.io/5gtoto/idnslot.webp?updatedAt=1720198117554" title="IDN Slot Slot Online" alt="IDN Slot" style="width:100%">
+        </div>
+        <div class="daftar-slot-5gtoto" bis_skin_checked="1">
+          <img src=https://ik.imagekit.io/5gtoto/habanero.webp?updatedAt=1720198242483" title="Habanero Slot Online" alt="Habanero" style="width:100%">
+        </div>
+        <div class="daftar-slot-5gtoto" bis_skin_checked="1">
+          <img src="https://ik.imagekit.io/5gtoto/microgaming.webp?updatedAt=1720198242437" title="Microgaming Slot Online" alt="Microgaming" style="width:100%">
+        </div>
+        <div class="daftar-slot-5gtoto" bis_skin_checked="1">
+          <img src="https://ik.imagekit.io/5gtoto/toptrendgaming.webp?updatedAt=1720198242349" title="TopTrendGaming Slot Online" alt="TopTrendGaming" style="width:100%">
+        </div>
+        <div class="daftar-slot-5gtoto" bis_skin_checked="1">
+          <img src="https://ik.imagekit.io/5gtoto/cmw.webp?updatedAt=1720198477819" title="GMW Slot Online" alt="GMW" style="width:100%">
+        </div>
+        <div class="daftar-slot-5gtoto" bis_skin_checked="1">
+          <img src="https://ik.imagekit.io/5gtoto/nolimitcity.webp?updatedAt=1720198242463" title="nolimit Slot Online" alt="nolimit" style="width:100%">
+        </div>
+      </div>
+      <!--live casino games></-->
+      <div style="color: White; width: 400px ; text-align: center;margin: 10px 0;">
+        <img src="https://iili.io/dHJ8AcQ.png" title="Daftar Casino 5gtoto" alt="Daftar Casino 5gtoto" style="width: 398px;height: 90px;">
+      </div>
+      <div class="casino-5gtoto">
+        <div class="daftar-casino-5gtoto" bis_skin_checked="1">
+          <img src="https://iili.io/JP8ayFt.png" title="Casino Games Billiard" alt="Casino Games Billiard" style="width:100%">
+        </div>
+        <div class="daftar-casino-5gtoto" bis_skin_checked="1">
+          <img src="https://iili.io/JP8c2AG.png" title="Casino Games 3D Shio" alt="Casino Games 3D Shio" style="width:100%">
+        </div>
+        <div class="daftar-casino-5gtoto" bis_skin_checked="1">
+          <img src="https://iili.io/dHJaog4.png" title="Casino Games Monopoly" alt="Casino Games Monopoly" style="width:100%">
+        </div>
+        <div class="daftar-casino-5gtoto" bis_skin_checked="1">
+          <img src="https://iili.io/JP8cHSn.png" title="Casino Games 24D" alt="Casino Games 24D" style="width:100%">
+        </div>
+        <div class="daftar-casino-5gtoto" bis_skin_checked="1">
+          <img src="https://ik.imagekit.io/5gtoto/suwit.webp?updatedAt=1720199813345" title="Casino Games Dragon Tiger" alt="Casino Games Dragon Tiger" style="width:100%">
+        </div>
+        <div class="daftar-casino-5gtoto" bis_skin_checked="1">
+          <img src="https://iili.io/dHJlLe2.png" title="Casino Games Baccarat" alt="Casino Games Baccarat" style="width:100%">
+        </div>
+        <div class="daftar-casino-5gtoto" bis_skin_checked="1">
+          <img src="https://iili.io/dHJlLe2.png" title="Casino Games Roulette" alt="Casino Games Roulette" style="width:100%">
+        </div>
+        <div class="daftar-casino-5gtoto" bis_skin_checked="1">
+          <img src="https://iili.io/JP8c3Nf.png" title="Casino Games Poker Dice" alt="Casino Games Poker Dice" style="width:100%">
+        </div>
+      </div>
+      <!--Link Alternatif 5GTOTO></-->
+      <div class="link-alternatif-5gtoto">
+        <div style="color: White; width: 400px ; text-align: center;margin: 10px 0;">
+          <img src="https://iili.io/dHJIRvn.png" title="Link Alternatif 5GTOTO" alt="Link Alternatif 5GTOTO" style="width:440px;height:90px;">
+        </div>
+        <div class="link-alternatif-5gtoto-terbaik">
+          <div class="alternatif-dasar">
+            <a href="https://5gtoto.com/register" class="link-alternatif11">LINK ALTERNATIF <span class="info-alternatif">Server Indonesia</span>
+            </a>
+          </div>
+          <div class="alternatif-dasar">
+            <a href="https://5gtoto.vip/register" class="link-alternatif12">LINK ALTERNATIF <span class="info-alternatif">Server Singapore</span>
+            </a>
+          </div>
+          <div class="alternatif-dasar">
+            <a href="https://5gtoto.vip/register?referral_code=referral" class="link-alternatif13">LINK ALTERNATIF <span class="info-alternatif">Server filipina</span>
+            </a>
+          </div>
+        </div>
+        <p>
+          <strong>
+            <a href="/">
+              <span style="color: #ffff00;">5GTOTO</span>
+            </a>
+          </strong>, bandar toto online terpercaya, selalu menyediakan link alternatif untuk memberikan sajian taruhan yang lebih baik dan berkualitas. Tidak diragukan lagi bahwa perjudian dan permainan apapun menjadi lebih mudah diakses di era kemajuan teknologi yang kian pesat seperti saat ini. Hal ini juga berlaku untuk taruhan toto atau tebak angka, yang sejak pertama kali dirilis telah sangat diminati dan dimainkan oleh banyak khalayak. Namun, ini tidak berarti bahwa layanan taruhan di setiap bandar toto selalu mudah diakses. Karena itu, Anda membutuhkan bandar toto resmi seperti 5GTOTO, yang memiliki layanan toto terbaik dan selalu dapat diakses dengan mudah.
+        </p>
+        <p>5GTOTO telah hadir sejak tahun 2013 tentu telah membantu banyak bettor mendapatkan layanan taruhan toto online terbaik. Selain itu, para bettor atau pemain dapat lebih mudah bermain toto online melalui <strong>
+            <a href="/">
+              <span style="color: #ffff00;">link alternatif 5GTOTO</span>
+            </a>
+          </strong> bandar toto resmi. Salah satu situs terbaik, tentu saja tujuan utamanya adalah untuk membuat member lebih mudah bermain permainan tebak angka atau <strong>
+            <a href="/">
+              <span style="color: #ffff00;">togel online</span>
+            </a>
+          </strong>. </p>
+        <p>Link alternatif 5GTOTO terbaru sudah dianggap sebagai salah satu fitur terbaik bagi bandar toto resmi seperti 5GTOTO. Selain menawarkan akses yang lebih mudah, link alternatif 5GTOTO terbaru juga dapat meningkatkan keamanan member saat memasang taruhan toto online karena dilengkapi dengan sistem terbaik sesuai peruntukannya.</p>
+        <p>Saat ini, mungkin ada banyak bandar layanan toto yang tersebar luas di internet yang menawarkan sejumlah pilihan menarik. Sayangnya, tidak semua situs taruhan toto memiliki tautan alternatif, yang membuatnya tidak cukup untuk memastikan bahwa membernya dapat bermain toto dengan mudah dan aman di sana.</p>
+        <h2>Manfaat yang Bisa Didapat Bettor dari Link Alternatif 5GTOTO Bandar Toto Resmi</h2>
+        <p>Tidak diragukan lagi, link alternatif 5GTOTO, sebagai salah satu situs terbaik, mampu menawarkan banyak keuntungan yang mungkin belum diketahui banyak bettor. Karena memang, bandar toto resmi ini tidak akan memberikan link alternatif jika tidak bermanfaat bagi membernya. Bahkan, layanan toto online yang ditawarkan oleh bandar taruhan terbaik ini selalu mementingkan atau memprioritaskan setiap kebutuhan membernya dalam bertaruh, sehingga banyak dari layanan terbaik mereka termasuk link alternatif.</p>
+        <p>Sebelum Anda mulai bermain toto online di bandar 5GTOTO, ada baiknya untuk mengetahui tentang manfaat dari link alternatif. Namun, satu hal yang pasti adalah bahwa memilih bertaruh toto dengan bandar yang resmi dan terpercaya akan memberi Anda banyak keuntungan dan keuntungan terbaik. Berikut adalah beberapa manfaat dari link alternatif 5gtoto bandar toto resmi yang selalu dapat diakses oleh bettor:</p>
+        <ul>
+          <li>Sebagai sarana untuk menjaga akses ke taruhan toto tetap aman <br />Salah satu manfaat sekaligus fungsi utama dari adanya link alternatif AKB88 bandar toto resmi adalah sebagai fitur keamanan untuk memastikan bahwa para member dapat terus mengakses taruhan toto online. Dengan mengakses toto melalui 5gtoto link alternatif terbaru dan resmi, jelas akan meningkatkan keamanan bertaruh, karena akun Anda tidak akan mudah diretas oleh sistem terbaik yang ada di dalamnya. </li>
+          <li>Mengurangi kegagalan server <br />Link alternatif bandar toto resmi 5GTOTO juga memiliki banyak keuntungan selain fitur keamanan. Selain itu, keberadaan link alternatif sangat penting untuk mengurangi downtime server, yang biasanya terjadi karena banyak pengguna bermain toto pada waktu yang sama di website utama. Namun, dengan memaksimalkan link alternatif, Anda pasti tidak akan lagi menghadapi masalah seperti itu. </li>
+          <li>Sumber akses taruhan toto tambahan selain link utama <br />Kami tidak tahu kapan pemerintah dapat memblokir situs taruhan. Untuk mencegah hal ini terjadi, 5GTOTO menawarkan link alternatif yang dapat membantu menjaga akses Anda aman tanpa khawatir tentang nawala atau internet positif. Sebaliknya, untuk member yang ingin mengakses taruhan toto, link alternatif resmi 5GTOTO juga bisa menjadi pilihan lain. </li>
+          <li>Meningkatkan keamanan akses <br />Link alternatif 5GTOTO dimaksudkan untuk meningkatkan kemudahan akses untuk bermain toto secara online. Dengan kata lain, dengan menggunakan link alternatif yang disediakan oleh bandar toto resmi terpercaya ini, Anda dapat memastikan bahwa akses ke taruhan toto selalu lancar dan tanpa masalah. </li>
+          <li>Membantu anggota bermain <strong>
+              <a href="/">
+                <span style="color: #ffff00;">toto gelap</span>
+              </a>
+            </strong> dengan perangkat apa pun <br>Satu lagi keuntungan besar dari adanya link alternatif 5GTOTO bandar toto resmi adalah bahwa itu memudahkan seluruh member untuk bermain toto dengan perangkat apa pun. Pasalnya, link alternatif dengan sistem terbaiknya selalu dapat diakses melalui berbagai macam perangkat, mulai dari PC hingga ponsel pintar, sehingga setiap member dapat memasang taruhan toto sesuai dengan perangkat yang mereka gunakan. </li>
+        </ul>
+      </div>
+      <center>
+        <img class="size-full wp-image-546 aligncenter" src="https://iili.io/dHJSDhX.gif" alt="" width="924" height="74">
+        </center>
+      <section class="yellowfoot">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-102 col-lg-102 col-sm-10 col-md-10 col-lg-offset-126 col-md-offset-125 col-sm-offset-125 col-xs-offset-125" style="margin-bottom: 5px;margin-top: 10px;">
+              <div class="contactusbg loremone" style="text-align: center; float: left;margin: 0px 5px;">
+                <a href="https://www.facebook.com/5gtoto" target="_blank" style="text-decoration: none;">FACEBOOK </a>
+              </div>
+              <div class="contactusbg loremone" style="text-align: center; float: left;margin: 0px 5px;">
+                <a href="https://twitter.com/5gtoto/" target="_blank" style="text-decoration: none;">TWITTER </a>
+              </div>
+              <div class="contactusbg loremone" style="text-align: center; float: left;margin: 0px 5px;">
+                <a href="https://instagram.com/5gtoto/" target="_blank" style="text-decoration: none;">INSTAGRAM </a>
+              </div>
+              <div class="contactusbg loremone" style="text-align: center; float: left;margin: 0px 5px;">
+                <a href="https://t.me/5gtoto" target="_blank" style="text-decoration: none;">TELEGRAM </a>
+              </div>
+              <div class="contactusbg loremone" style="text-align: center; float: left;margin: 0px 5px;">
+                <a href="https://www.youtube.com/5gtoto" target="_blank" style="text-decoration: none;">YOUTUBE </a>
+              </div>
+            </div>
+            
+<script>
+              document.addEventListener("DOMContentLoaded", function() {
+                    $(' < a href = "//register.php/"
+                        title = "Bandar Togel & Live Casino Online Indonesia Terpercaya" > < img src = "https://assets.5gtoto.com/jp.gif"
+                        style = "width:100%;width:100%;padding-top: 17px;padding-bottom: 0px;" > < /a>').insertBefore("#latest-results");},false);
+            </script>
+            <div style="position: fixed; bottom: 70px; left: 5px; z-index: 10; opacity: 0.98;">
+              <a href="/" target="_blank" rel="noopener">
+                <img class="wabutton" src="/" alt="RTP 5GTOTO" width="80" height="80">
+              </a>
+            </div>
+          </div>
+          
+<script>
+            var colors = new Array(
+              [255, 0, 0], [13, 25, 240], [255, 0, 0], [173, 3, 3], [255, 0, 0], [13, 25, 240]);
+            var step = 0;
+            var colorIndices = [0, 1, 2, 3];
+            var gradientSpeed = 0.005;
+
+            function updateGradient() {
+              if ($ === undefined) return;
+              var c0_0 = colors[colorIndices[0]];
+              var c0_1 = colors[colorIndices[1]];
+              var c1_0 = colors[colorIndices[2]];
+              var c1_1 = colors[colorIndices[3]];
+              var istep = 1 - step;
+              var r1 = Math.round(istep * c0_0[0] + step * c0_1[0]);
+              var g1 = Math.round(istep * c0_0[1] + step * c0_1[1]);
+              var b1 = Math.round(istep * c0_0[2] + step * c0_1[2]);
+              var color1 = "rgb(" + r1 + "," + g1 + "," + b1 + ")";
+              var r2 = Math.round(istep * c1_0[0] + step * c1_1[0]);
+              var g2 = Math.round(istep * c1_0[1] + step * c1_1[1]);
+              var b2 = Math.round(istep * c1_0[2] + step * c1_1[2]);
+              var color2 = "rgb(" + r2 + "," + g2 + "," + b2 + ")";
+              $('.pool-name').css({
+                background: "-webkit-gradient(linear, left top, right top, from(" + color1 + "), to(" + color2 + "))"
+              }).css({
+                background: "-moz-linear-gradient(left, " + color1 + " 0%, " + color2 + " 100%)"
+              });
+              step += gradientSpeed;
+              if (step >= 1) {
+                step %= 1;
+                colorIndices[0] = colorIndices[1];
+                colorIndices[2] = colorIndices[3];
+                colorIndices[1] = (colorIndices[1] + Math.floor(1 + Math.random() * (colors.length - 1))) % colors.length;
+                colorIndices[3] = (colorIndices[3] + Math.floor(1 + Math.random() * (colors.length - 1))) % colors.length;
+              }
+              $('.btn').css({
+                background: "-webkit-gradient(linear, left top, right top, from(" + color1 + "), to(" + color2 + "))"
+              }).css({
+                background: "-moz-linear-gradient(right, " + color1 + " 0%, " + color2 + " 100%)"
+              });
+              step += gradientSpeed;
+              if (step >= 1) {
+                step %= 1;
+                colorIndices[0] = colorIndices[1];
+                colorIndices[2] = colorIndices[3];
+                colorIndices[1] = (colorIndices[1] + Math.floor(1 + Math.random() * (colors.length - 1))) % colors.length;
+                colorIndices[3] = (colorIndices[3] + Math.floor(1 + Math.random() * (colors.length - 1))) % colors.length;
+              }
+              const pages = ['m/tm_game', 'm/game'];
+              pages.forEach(function(page) {
+                if (window.location.href.includes(page)) {
+                  $('#kirimkan').css({
+                    background: "-webkit-gradient(linear, left top, right top, from(" + color1 + "), to(" + color2 + "))"
+                  }).css({
+                    background: "-moz-linear-gradient(left, " + color1 + " 0%, " + color2 + " 100%)"
+                  });
+                  step += gradientSpeed;
+                  if (step >= 1) {
+                    step %= 1;
+                    colorIndices[0] = colorIndices[1];
+                    colorIndices[2] = colorIndices[3];
+                    colorIndices[1] = (colorIndices[1] + Math.floor(1 + Math.random() * (colors.length - 1))) % colors.length;
+                    colorIndices[3] = (colorIndices[3] + Math.floor(1 + Math.random() * (colors.length - 1))) % colors.length;
+                  }
+                }
+              })
+            }
+            setInterval(updateGradient, 10);
+          
+</script>
+          <div class="bottomnv">
+            <ul class="blacktp">
+              <li>
+                <a class="bottomnv_active" href="/">Home</a>
+              </li>
+              <li>
+                <a href="/promotion/">Promosi</a>
+              </li>
+              <li>
+                <a href="/how-to-play/">Cara Bermain</a>
+              </li>
+              <li>
+                <a href="/history_nomor_interface/">histori nomor</a>
+              </li>
+              <li>
+                <a href="/bukumimpi/">buku mimpi</a>
+              </li>
+              <li>
+                <a href="/support/">bantuan</a>
+              </li>
+              <li>
+                <a href="/referral/">refferal</a>
+              </li>
+              <li>
+                <a href="/register/">daftar</a>
+              </li>
+              <div class="clearfix"></div>
+            </ul>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      
+</section>
+      
+<!-- SCRIPT fireworks awal-->
+      <script src="https://assets.akb88.com/kembangapi.js"></script>
+      <style>
+        .fireworkss {
+          position: fixed;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          z-index: -1;
+        }
+      </style>
+      <div class="fireworkss">
+        <canvas width="50" height="50"></canvas>
+      </div>
+      <script>
+        const container = document.querySelector('.fireworkss')
+        const fireworks = new Fireworks({
+          target: container,
+          hue: 120,
+          startDelay: 5,
+          minDelay: 20,
+          maxDelay: 1,
+          speed: 0.5,
+          acceleration: 1.04,
+          friction: 0.98,
+          gravity: 1,
+          particles: 99,
+          trace: 1,
+          explosion: 8,
+          boundaries: {
+            top: 50,
+            bottom: container.clientHeight,
+            left: 50,
+            right: container.clientWidth
+          },
+        })
+        // start fireworks
+        fireworks.start()
+        </script>
+      <!-- SCRIPT fireworks akhir -->

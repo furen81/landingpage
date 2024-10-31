@@ -1,0 +1,970 @@
+<link rel="amphtml" href="https://5gtoto.semogajayaterus.com/">
+
+
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M69BM5ZV');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '427140893551226');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=427140893551226&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<div style="position: fixed; bottom: 137px; left: 5px; z-index: 10; opacity: 0.98;">
+<a href="https://5gtotoofficial.myr.id/" target="_blank" rel="noopener">
+<img class="wabutton" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7KAWxM2qi8RpifiC9RaVung3k_dck1MeKS6siOa8F-if8WZSHezxiPS1rnPCoRUI1ASMzuCT57oWmJf7GtyEydXW4d7u509D9taORMIMum_LtKHZIsmu_gMFnyTVSY9W0JB9WEi9drD-3koGib9A-XElbzMfwxi6VmOR8-9zEajPEAyE_CTN0sk3L/s240/rtp5g.gif" alt="RTP 5GTOTO" width="80" height="80">
+</a>
+</div>
+
+
+<script>
+$('<marquee style="color: white;background: #1e1d1d;margin-bottom: -6px;line-height: 35px;text-shadow: 0px 0px 5px rgb(255 0 0);font-size: 18px;border: 1px solid #f90019;">Selamat Datang Di Situs Togel Online Resmi & Terpercaya 5Gtoto. 5Gtoto Menyediakan Permainan Togel Online - Slot Online - Live Casino.</marquee></div></div>').insertBefore($('.wrapper2'));
+</script>
+
+<script type="text/javascript">
+              $(document).ready(function() {
+                $(".slide1").slideUp();
+              });
+
+              function slide(a) {
+                if ($(".slide" + a).is(":hidden")) {
+                  $(".slide" + a).slideDown();
+                } else {
+                  $(".slide" + a).slideUp();
+                }
+              }
+
+$('<div class="owl-carousel owl-theme"><div><img src="https://i.ibb.co/82NnrdS/5-G-TO-1.jpg" style="padding-top:0px;" alt="Togel Online" height="100%" width="100%"></div><div><img src="https://i.ibb.co/zV5ZmLz/SLIDER5-G-1-DEKSTOP-2.webp" style="padding-top:0px;" alt="Togel Online" height="100%" width="100%"></div><div><img src="https://i.ibb.co/0K27NwB/Slider-5-G-2-Dekstop.jpg" style="padding-top:0px;" alt="Togel Online" height="100%" width="100%"></div></diV>').insertBefore($('.wrapper2'));
+
+
+$('<a title="Prediksi Togel" href="#" class="buttonWrap buttondapk button-dua contactSubmitButton" target="_blank" style="padding: 10px 26px 10px 26px; margin-bottom: 10px; font-family: aller; font-size: 17px;">Prediksi Togel</a>').insertAfter('.buttong');
+
+$('<a title="RTP Slot" href="https://5gtotoofficial.myr.id/" class="buttonWrap button-satu buttondapk contactSubmitButton " target="_blank" style="padding: 10px 26px 10px 26px; margin-bottom: 10px; font-family: aller; font-size: 17px;">RTP Slot</a>').insertAfter('.buttong');
+
+
+$('.note.left').html('Versi WAP');
+</script>
+
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20220808154019/https://oxygendct.com/slide/gayamu.css">
+
+
+<script type="text/javascript">
+$('.owl-carousel').owlCarousel({
+loop:true,
+margin:10,
+responsiveClass:true,
+responsive:{
+0:{
+items:1,
+nav:true
+},
+600:{
+items:3,
+nav:false
+},
+1000:{
+items:5,
+nav:true,
+loop:true
+}
+}
+})
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20220808154019/https://oxygendct.com/slide/gayamu.css">
+
+
+
+<style>
+
+
+@keyframes change-color {
+ 0%{
+    color:white;
+ }
+ 50% { color:white;
+}
+ 100%{
+    color:black;
+ }
+
+} 
+
+.buttonlc2 {
+    animation: change-color 0.5s ease 0s infinite normal !important;
+    box-shadow: inset 0 1px 0 #ff0000;
+    background: linear-gradient(to left, #870202 0%,#ab1414 50%,#cf0404 100%);
+}
+
+.buttondapk {
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10px 26px 10px 26px;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-family: aller;
+    font-size: 17px;
+}
+
+.button-orange {
+    background: linear-gradient(to bottom, #f00d0d 0%,#b42323 50%,#d91111 50%,#a91414 50%,#cf0404 100%);
+}
+
+.button-satu {
+    background: linear-gradient(to left,#980b0b 0%,#ff0000 50%,#980b0b 100%);
+    box-shadow: none;
+    border: 1px solid #ff0000;
+}
+
+.button-dua {
+    background: linear-gradient(to left,#980b0b 0%,#ff0000 50%,#980b0b 100%);
+    box-shadow: none;
+    border: 1px solid #ff0000;
+}
+
+.button-blue {
+    background-image: linear-gradient(to left,#980b0b 0%,#ff0000 50%,#980b0b 100%);
+    box-shadow: inset 0px 0px 0px 1px rgb(255 247 0), inset 0px 2px 0px 0px rgb(255 225 0), inset 0px 0px 0px 2px rgb(255 249 0), 3px 3px 3px 1px rgb(0 0 0 / 20%);
+    box-shadow: none;
+    color: #ffffff;
+}
+
+.button-green {
+    background: linear-gradient(to bottom,#0bcafd 0%,#0cccff 100%);
+    box-shadow: 0px 0px 2px #6eeaeb;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.wrapper2 {
+    background: linear-gradient(to bottom, #650b0b 0%, #000000 46%, #0b0707 50%, #6e0000 100%);
+}
+
+.inner-wrap {
+    background: linear-gradient(to bottom, #6c0000 0%, #000000 46%, #0b0707 50%, #6e0000 100%);
+
+}
+
+
+input[type="submit"], .button, .buttons, .buttond, .buttonss, .buttong, .buttonlc2, .buttonbl, .buttondapk {
+}
+
+.header-text {
+     text-align: center;
+     margin-bottom: 20px;
+     color:gold;
+      }
+@media screen and (max-width: 1200px) {
+      .results {
+          border: solid 1px #ff5700 !important;
+          background-color: rgba(0, 0, 0, 0.55) !important;
+          width: 90% !important;
+          display: inline-block !important;
+          border-radius: 10px !important;
+          margin-bottom: 0 !important;
+          padding: 0 !important;
+      }
+
+    
+      .panel-blue {
+          border:1px solid #8b7883 !important;
+           background: #000 !important;
+          }
+    
+      .pool-date {
+          font-size: 12px !important;
+          margin-left: 0 !important;
+          padding-top: 0 !important;
+          text-align: center !important;
+          display: block !important;
+          color: #fff !important;
+    }
+    .panel-blue a {
+    display: none !important;
+    }
+    .pool-name {
+    color: black !important;
+    font-weight: bolder !important;
+    text-transform: uppercase;
+    font-size: 7px !important;
+    width: 100% !important;
+    text-align: center !important;
+    background: linear-gradient(234deg, rgb(255 3 3) 4%, rgb(245 0 0) 15%, rgb(206 14 14) 30%, rgb(46 222 209) 45%, rgb(255 0 0) 70%, rgb(244 4 45) 92%);
+    background-size: 300% 300%;
+    animation: background-gold 8s infinite;
+    padding: 3px 2px;
+    border: 2px solid #ff000f;
+    }
+      .pool-result {
+          color: #a3a3a3 !important;
+          text-align: center !important;
+          width: 100% !important;
+          font-size: 24px !important;
+          line-height: 1.2 !important;
+          float: none !important;
+      }
+
+      
+</style>
+
+<style>
+
+.owl-pagination {
+margin-top: -31px;
+margin-bottom: 5px;
+
+</style>
+<script>
+    $(document).ready(function() {
+        const $resultsElements = $(".results"); // Semua elemen dengan class "results"
+        const limit = 68;
+
+        // Sembunyikan semua elemen dengan class "results" terlebih dahulu
+        $resultsElements.hide();
+
+        // Tampilkan elemen-elemen dengan class "results" hingga mencapai batas limit
+        $resultsElements.each(function(index, element) {
+            if (index < limit) {
+                $(element).show(); // Tampilkan elemen jika indexnya kurang dari batas limit
+            } else {
+                // Jika elemen tidak masuk dalam batasan limit, sembunyikan elemen ".slider" yang di atasnya
+                $(element).prev(".slider").hide();
+            }
+        });
+    });
+</script>
+
+<style>
+.timer-game{
+text-align:center;
+}
+#timer-m17-TM::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/TOTOMACAU-4D.png?updatedAt=1719293308887');
+    padding: 50px;
+}
+
+#timer-m51-TM5D::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/TOTOMACAU-5D.png?updatedAt=1719293310252');
+    padding: 50px;
+}
+#timer-m83-KK4D::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/kingkongaaee0fd617c14984.png?updatedAt=1719293299603');
+    padding: 50px;
+}
+
+#timer-p1709-SYIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/SYDNEY.png?updatedAt=1719293305158');
+    padding: 50px;
+}
+
+#timer-p1710-SIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/SINGAPORE.png?updatedAt=1719293305618');
+    padding: 50px;
+}
+
+#timer-p1713-HIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/HONGKONG.png?updatedAt=1719293295984');
+    padding: 50px;
+}
+
+#timer-p14451-MDIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/MARYLAND-eve.png?updatedAt=1719293300197');
+    padding: 50px;
+}
+
+#timer-p14269-OMIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/OHIO-MID.png?updatedAt=1719293303640');
+    padding: 50px;
+}
+
+#timer-p14447-GDIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/GEORGIA.png?updatedAt=1719293296219');
+    padding: 50px;
+}
+
+#timer-p14267-MMIK::after {
+    content: url('https://photoku.io/images/2024/05/30/MICHIGAN.png');
+    padding: 50px;
+}
+
+#timer-p13919-ERIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/NEWJERSEYEVE.png?updatedAt=1719293300644');
+    padding: 50px;
+}
+
+#timer-p5774-KMIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/KENTUCKYMID.png?updatedAt=1719293297470');
+    padding: 50px;
+}
+
+#timer-p13920-ANIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/INDIANAEVE.png?updatedAt=1719293296468');
+    padding: 50px;
+}
+
+#timer-p14260-TSIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/TENNESSEE.png?updatedAt=1719293307488');
+    padding: 50px;
+}
+
+#timer-p14256-TDIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/TEXAS.png?updatedAt=1719293308785');
+    padding: 50px;
+}
+
+#timer-p13921-ORIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/FLORIDA-MID.png?updatedAt=1719293297036');
+    padding: 50px;
+}
+
+#timer-p14452-RIIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/RHODE.png?updatedAt=1719293304769');
+    padding: 50px;
+}
+
+#timer-p13922-YLIK::after {
+    content: url('hhttps://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/PENNSYLVANI2.png?updatedAt=1719293304247');
+    padding: 50px;
+}
+
+#timer-p14263-IMIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/ILLINOIS-eve.png?updatedAt=1719293296815');
+    padding: 50px;
+}
+
+#timer-p13923-SSIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/MISSOURIEVE.png?updatedAt=1719293300693');
+    padding: 50px;
+}
+
+#timer-p5773-VDIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/VIRGINIA_N.png?updatedAt=1719293310270');
+    padding: 50px;
+}
+
+#timer-p14265-WTIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/WASHINGTONMI.png?updatedAt=1719293309774');
+    padding: 50px;
+}
+
+#timer-p14453-DDIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/DELAWARE.png?updatedAt=1719293291442');
+    padding: 50px;
+}
+
+#timer-p13924-RKIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/NEWYORKEVE.png?updatedAt=1719293300527');
+    padding: 50px;
+}
+
+#timer-p14473-XXIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/WISCONSIN.png?updatedAt=1719293310760');
+    padding: 50px;
+}
+
+#timer-p5515-CDIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/CAROLINADAY.png?updatedAt=1719293290852');
+    padding: 50px;
+}
+
+#timer-p11721-ORWI::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/OREGON1.png?updatedAt=1719293304427');
+    padding: 50px;
+}
+
+#timer-p14471-WINY::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/GERMANY.png?updatedAt=1719293296835');
+    padding: 50px;
+}
+
+#timer-p11722-OGWI::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/OREGON1.png?updatedAt=1719293304427');
+    padding: 50px;
+}
+
+#timer-p14257-TEIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/TEXAS.png?updatedAt=1719293308785');
+    padding: 50px;
+}
+
+#timer-p13999-NSIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/PENNSYLVANI2.png?updatedAt=1719293304247');
+    padding: 50px;
+}
+
+#timer-p14446-GEIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/GEORGIA.png?updatedAt=1719293296219');
+    padding: 50px;
+}
+
+#timer-p14458-ATIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/ATLANTAa124d96f1948e16e%20(1).png?updatedAt=1719293290593');
+    padding: 50px;
+}
+
+#timer-p14261-ENIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/TENNESSEE.png?updatedAt=1719293307488');
+    padding: 50px;
+}
+
+#timer-p14268-MEIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/MICHIGAN.png?updatedAt=1719293301041');
+    padding: 50px;
+}
+
+#timer-p14270-OVIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/OHIO-MID.png?updatedAt=1719293303640');
+    padding: 50px;
+}
+
+#timer-p14450-MYIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/MARYLAND-eve.png?updatedAt=1719293300197');
+    padding: 50px;
+}
+
+#timer-p14266-WEIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/WASHINGTONMI.png?updatedAt=1719293309774');
+    padding: 50px;
+}
+
+#timer-p14454-DTIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/DELAWARE.png?updatedAt=1719293291442');
+    padding: 50px;
+}
+
+#timer-p14449-CFIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/CALIFORNIA--CONV.png?updatedAt=1719293290675');
+    padding: 50px;
+}
+
+#timer-p13997-RDIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/FLORIDA-MID.png?updatedAt=1719293297036');
+    padding: 50px;
+}
+
+#timer-p13996-OUIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/MISSOURIEVE.png?updatedAt=1719293300693');
+    padding: 50px;
+}
+
+#timer-p13995-OEIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/OREGON1.png?updatedAt=1719293304427');
+    padding: 50px;
+}
+
+#timer-p14264-IEIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/ILLINOIS-eve.png?updatedAt=1719293296815');
+    padding: 50px;
+}
+
+#timer-p13994-EWIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/NEWYORKEVE.png?updatedAt=1719293300527');
+    padding: 50px;
+}
+
+#timer-p13993-AAIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/INDIANAEVE.png?updatedAt=1719293296468');
+    padding: 50px;
+}
+
+#timer-p13992-YEIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/NEWJERSEYEVE.png?updatedAt=1719293300644');
+    padding: 50px;
+}
+
+#timer-p13998-INIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/VIRGINIA_N.png?updatedAt=1719293310270');
+    padding: 50px;
+}
+
+#timer-p13991-KYIK::after {
+    content: url('https://photoku.io/images/2024/05/30/KENTUCKYMID.png');
+    padding: 50px;
+}
+
+#timer-p14258-TNIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/KENTUCKYMID.png?updatedAt=1719293297470');
+    padding: 50px;
+}
+
+#timer-p13990-RNIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/NORTCAROEVE.png?updatedAt=1719293301161');
+    padding: 50px;
+}
+
+#timer-p14448-GTIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/GEORGIA.png?updatedAt=1719293296219');
+    padding: 50px;
+}
+
+#timer-p5510-CAIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/CAMBODIA.png?updatedAt=1719293291009');
+    padding: 50px;
+}
+
+#timer-p1708-BIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/BULLSEYE.png?updatedAt=1719293291292');
+    padding: 50px;
+}
+
+#timer-p13989-GOIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/OREGON1.png?updatedAt=1719293304427');
+    padding: 50px;
+}
+
+#timer-p7853-NKIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/NORTHKOREA.png?updatedAt=1719293301267');
+    padding: 50px;
+}
+
+#timer-p5511-CHIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/CHINA.png?updatedAt=1719293290865');
+    padding: 50px;
+}
+
+#timer-p7852-THIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/THAILANDPOOL.png?updatedAt=1719293309299');
+    padding: 50px;
+}
+
+#timer-p9458-JPIK::after {
+    content: url('hhttps://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/JAPAN.png?updatedAt=1719293296104');
+    padding: 50px;
+}
+
+#timer-p5513-PHIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/PHOENIX4D.png?updatedAt=1719293304835');
+    padding: 50px;
+}
+
+#timer-p12850-MGIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/MONGOLIA.png?updatedAt=1719293300487');
+    padding: 50px;
+}
+
+#timer-p7854-POIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/PORTLANDPOOL.png?updatedAt=1719293304865');
+    padding: 50px;
+}
+
+#timer-p1712-PCIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/PCSO.png?updatedAt=1719293305136');
+    padding: 50px;
+}
+
+#timer-p5512-TAIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/TAIWAN.png?updatedAt=1719293305444');
+    padding: 50px;
+}
+
+#timer-p9862-BGIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/BOGOTA.png?updatedAt=1719293290946');
+    padding: 50px;
+}
+
+#timer-p14262-TOIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/TENNESSEE.png?updatedAt=1719293307488');
+    padding: 50px;
+}
+
+#timer-p14259-TMIK::after {
+    content: url('tps://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/TEXAS.png?updatedAt=1719293308785');
+    padding: 50px;
+}
+
+#timer-p14414-JAIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/JAKARTA1444985a1c325907.png?updatedAt=1719293295946');
+    padding: 50px;
+}
+
+#timer-p5514-BUIK::after {
+    content: url('https://ik.imagekit.io/5GTOTOCOM/pasaran%20togel/BUFFALO4D.png?updatedAt=1719293290735');
+    padding: 50px;
+}
+
+#timer-p14745-MKIK::after {
+    content: url('https://photoku.io/images/2024/06/15/03.BOSTON.png');
+    padding: 50px;
+}
+
+#timer-p14754-AQIK::after {
+    content: url('https://photoku.io/images/2024/06/15/02.FREETOWN.png');
+    padding: 50px;
+}
+
+#timer-p14746-GGIK::after {
+    content: url('https://photoku.io/images/2024/06/15/01.-MOSCOW.png');
+    padding: 50px;
+}
+
+#timer-p14744-FGIK::after {
+    content: url('https://photoku.io/images/2024/06/15/04.MUNCHEN.png');
+    padding: 50px;
+}
+
+#timer-p14759-NGIK::after {
+    content: url('https://photoku.io/images/2024/06/20/KINGSTON.png');
+    padding: 50px;
+}
+
+.games-btn-container .btn-games-wrapper .btn-game-hs {
+    width: 100%;
+    white-space: nowrap;
+    overflow-x: hidden;
+    background: linear-gradient(to bottom, #f6ee00 0%, #ffac00 100%);
+    color: #000!important;
+    padding: 0.75rem 0.5rem;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    border: 2px solid #fac005;
+}
+.panel-grey {
+    background: #000 !important;
+    background-size: auto;
+    background-size: 400% 400%;
+    animation: gradient 5s ease infinite;
+    box-shadow: inset 0 0 5px 3px #f1cd00, inset 0 2px 0 0 #fff, inset 0 0 0 2px #f1cd00, 3px 3px 3px 1px rgba(0,0,0,.2)!important;
+    color: #000;
+text-align: center;
+}
+
+.mb-sidenav .side-link-container>li .side-link .side-link-desc .side-link-text {
+    font-size: 1.6rem;
+    color: #000!important;
+    margin-left: 1.5rem;
+    white-space: nowrap;
+	
+}
+
+.mb-sidenav .side-link-container>li .side-link .side-link-desc .icon-menu {
+    background-image: url(https://photoku.io/images/2024/05/30/cG0DA32w.png)!important;
+    height: 2.5rem;
+    width: 2.5rem;
+}
+
+.mb-sidenav .side-link-container>li {
+    margin: unset;
+    line-height: unset;
+    list-style: none;
+    padding: 1.25rem 1.5rem;
+    border-bottom: 2px solid #000!important;
+	background: linear-gradient(245.59deg, #ffb500 0, #ffea56 28.53%, #ffdb00 75.52%)!important;
+
+}
+
+.game-wrapper .game-lobby-content .game-title {
+    color: #000!important;
+    text-align: center;
+    white-space: nowrap;
+    padding-top: 1rem;
+    font-weight: 500;
+    background: linear-gradient(101deg, rgb(255 173 0) 4%, rgb(255 209 0) 15%, rgb(255 213 0) 30%, rgb(255 220 0) 69%, rgb(255 209 0) 87%, rgb(255 178 0) 92%);
+    border: 2px solid #fff000;
+    border-radius: 5px;
+    padding-bottom: 5px;
+}
+	@keyframes background-gold {
+		  0% {
+			background-position: 0% 82%;
+		  }
+	
+		  50% {
+			background-position: 100% 0%;
+		  }
+	
+		  100% {
+			background-position: 0% 82%;
+		  }
+		}
+
+.tab button.tab-wikaa {
+    background-color: #000000;
+    color: #ffffff;
+    border: 2px solid #fff000;
+}
+
+.tab button.tab-wikaa.active {
+    color: #000000;
+	background: linear-gradient(245.59deg, #ffb500 0, #ffea56 28.53%, #ffdb00 75.52%) !important;
+	
+.tab button.tab-wikaa-qrispayment.active {
+    color: #000000;
+}
+}
+.tab button.tab-wikaa-bank.active img {
+    content: url(https://photoku.io/images/2024/05/30/w2Rrt4SI.png)!important;
+}
+
+.tab button.tab-wikaa-qrispayment.active img {
+    content: url(https://photoku.io/images/2024/05/30/Dm0Qc7ip.png)!important;
+}
+
+.text-center {
+    text-align: center !important;
+    border-top: 2px solid #fff000;
+}
+
+.bank-cashier {
+    gap: 10px;
+    background: #fff;
+    border-radius: 12px !important;
+    height: 32px;
+}
+
+.depo-ibanking .link-ibanking {
+    background: #ffd900;
+    color: #1e1e1e;
+    display: flex;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+    margin: 5px;
+}
+.b-green {
+    border: 1px solid #ffe900;
+    border-radius: 1rem;
+    background: #4d4d4d;
+}
+</style>
+
+<style>
+
+.game-togel .lobby-game-angka-keluar, div#lobtoto>a>div.angka-keluar {
+    font-size: 30px !important;
+    margin-top: -10px !important;
+}
+
+div#lobtoto>a>b {
+    margin-top: 30px !important;
+}
+
+.game-togel a.game-lobby-content, #game-live a.game-lobby-content, div#lobtoto>a {
+    border: inset 2px rgb(255 223 0);
+    border-radius: 10px;
+background: #171717;
+}
+
+div#lobmini>a{
+    background-size: 100% 100% !important;
+}
+
+div#lobtoto .button-extra-big2 {
+    padding: 15px 0 0 0 !important;
+}
+.inner-wrap {
+    background: #000000c2!important;
+}
+
+</style>
+
+<script type="text/javascript">
+window.addEventListener('load', function () {
+ $('<div class="side-link-container show"><li><a href="https://surkale.me/ylfzf6" id="prediksi" target="_blank" class="side-link-desc" rel="nofollow" style="padding: 10px 26px 10px 26px; margin-bottom: 0px; font-family: aller; font-size: 15px; background-color: #000000; border: 2px solid #fff000; box-shadow: 0px 5px 4px #0000005c;border-radius: 30px; color: #fff;text-align: center;">PREDIKSI TOGEL<em class="side-link-text"></em></a></li></div><div class="side-link-container show"><li><a href="https://surkale.me/qWcayV" id="rtp" target="_blank" class="side-link-desc" rel="nofollow" style="padding: 10px 26px 10px 26px; margin-bottom: 0px; font-family: aller; font-size: 15px; background-color: #000000; border: 2px solid #fff000; box-shadow: 0px 5px 4px #0000005c;border-radius: 30px; color: #fff;text-align: center;">RTP SLOT<em class="side-link-text"></em></a></li></div>').insertAfter(".sidenav-header");
+  }); 
+  </script>
+
+<style>
+	.panel-blue{
+		 background: linear-gradient(to right, #0981F3 0%, #0981F3 50%, #0981F3 100%);
+		 padding: 10px;
+		 border-radius: 16px;
+		 border: 1px solid #fff000;
+	}
+       #slider-hasil .slider {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        align-items: start;
+        justify-items: stretch;
+        justify-content: center;
+    }
+
+    .slider {
+        width: 100%;
+    }
+
+    .results {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        margin: 5px;
+        padding: 0px !important;
+        border: solid 1px #ff5700 !important;
+        /* background: linear-gradient(to bottom, rgba(120,120,120,1) 0%, rgba(38,38,38,1) 100%); */
+    }
+
+
+    .pool-name {
+    color: black !important;
+    font-weight: bolder !important;
+    text-transform: uppercase;
+    font-size: 7px !important;
+    width: 100% !important;
+    text-align: center !important;
+    background: linear-gradient(101deg, rgb(255 3 3) 4%, rgb(245 0 0) 15%, rgb(206 14 14) 30%, rgb(46 222 209) 69%, rgb(255 0 0) 87%, rgb(244 4 45) 92%);
+    background-size: 300% 300%;
+    animation: background-gold 8s infinite;
+    padding: 3px 2px;
+    border: 2px solid #ff000f;
+    }
+
+    .pool-date {
+        font-size: 10px !important;
+        color: #fff !important;
+        margin-left: 0% !important;
+        padding-top: 2px;
+        text-align: center;
+        font-weight: 500;
+        font-size: 8px !important;
+    }
+
+    .pool-result {
+        font-size: 12px !important;
+        color: #fff000 !important;
+    }
+	.slc {
+	  top: 80px !important;
+	}
+	@keyframes background-gold {
+		  0% {
+			background-position: 0% 82%;
+		  }
+	
+		  50% {
+			background-position: 100% 0%;
+		  }
+	
+		  100% {
+			background-position: 0% 82%;
+		  }
+		}
+.button-lobby-container .button-lobby-wrapper>.button-filter-lobby {
+    border: none;
+    outline: none;
+    width: 100%;
+    background: linear-gradient(to bottom,#00f5f6 0%,#0b669e 100%);
+    color: #000000 !important;
+    border-radius: 4px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    border: 2px solid #05f4fa !important;
+    box-shadow: 0px 0px 3px #00d3ff;
+}
+header.header-after-login .header-wrapper .buttn-header-deposit {
+    background: linear-gradient(270deg, rgba(201,138,0,1) 0%, rgba(253,243,35,1) 21%, rgba(253,243,35,1) 33%, rgba(211,158,7,1) 44%, rgba(215,166,9,1) 60%, rgba(252,241,34,1) 73%, rgba(255,247,36,1) 85%, rgba(201,138,0,1) 100%) !important;
+    color: #000 !important;
+    font-size: 1.3rem;
+    font-weight: 600;
+    border-radius: 4px;
+    animation: borderAnimation 2s ease-in-out infinite;
+    box-shadow: inset 0 0 5px 3px #f1d700, inset 0 2px 0 0 #fff;
+padding: 0.9rem 2rem !important;
+}
+@keyframes background-gold {
+		  0% {
+			background-position: 0% 82%;
+		  }
+	
+		  50% {
+			background-position: 100% 0%;
+		  }
+	
+		  100% {
+			background-position: 0% 82%;
+		  }
+		}
+a.buttonWrap.buttonlc2.button-orange {
+    background: linear-gradient(226deg, rgb(201 0 0) 0%, rgb(243 7 7) 21%, rgb(239 3 3) 33%, rgb(232 10 10) 5%, rgb(7 223 245) 60%, rgb(241 8 8) 73%, rgb(255 36 77) 85%, rgb(201 0 0) 100%);
+    border: 2px solid #ea0e0ede;
+    background-clip: padding-box;
+    animation: borderAnimation 2s ease-in-out infinite;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: inset 0 0px 0 rgb(255 202 0);
+    color: #000000;
+}
+header.header-after-login .header-wrapper {
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-bottom: 1px solid #fff000;
+}
+.input-cari-wrapper input#cari-game {
+    text-align: center;
+    border: 1px solid #fff000 !important;
+    background: #303030;
+    border-radius: 18px !important;
+    color: #d2d2d2 !important;
+}
+.main-content {
+    background-color: #202020 !important;
+    padding: 1rem;
+}
+.slot-header-right button {
+    padding: 4px 10px;
+    border-radius: 10px;
+    color: #000 !important;
+    background: linear-gradient(to bottom,#00f5f6 0%,#0b669e 100%) !important;
+    border: 2px solid #05f4fa !important;
+    box-shadow: 0px 0px 3px #00d3ff;
+}
+.peraturan-content {
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: 1rem 0;
+    color: #fff;
+}
+
+</style>
+
+
+
+<style>
+
+.pesan-rahasia {
+    background: #212121;
+    padding: 14px;
+    border-radius: 10px;
+    margin: 0px 18px;
+    font-size: 15px;
+    color: white;
+    font-family: helvetica;
+    te
+        </script>
+    </footer>-> 
